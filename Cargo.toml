@@ -1,9 +1,9 @@
 [package]
 name = "try_transform_mut"
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 authors = ["CrLF0710 <crlf0710@gmail.com>"]
-description = "Try to consume a reference and transform it with recovery."
+description = "Deprecated."
 documentation = "https://docs.rs/try_transform_mut"
 repository = "https://github.com/crlf0710/try-transform-mut-rs"
 
